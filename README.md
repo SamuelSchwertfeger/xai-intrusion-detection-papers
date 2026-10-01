@@ -50,6 +50,10 @@ Every entry has been checked against Crossref, arXiv, or the publisher's page. P
 - **Troubleshooting an Intrusion Detection Dataset: the CICIDS2017 Case Study**. Engelen et al. *IEEE SPW*, 2021. [DOI](https://doi.org/10.1109/SPW53761.2021.00009) — Documents labelling and traffic-generation problems in CIC-IDS2017 and provides a corrected version.
 - **Bad Design Smells in Benchmark NIDS Datasets**. Flood et al. *IEEE EuroS&P*, 2024. [DOI](https://doi.org/10.1109/EuroSP60621.2024.00042) — Catalogues design flaws in widely used NIDS benchmark datasets and shows their effect on evaluation.
 
+## Maintainer
+
+Maintained by [Samuel Schwertfeger](https://github.com/SamuelSchwertfeger), Ph.D. student at Augusta University. More about my research: [samuelschwertfeger.github.io](https://samuelschwertfeger.github.io)
+
 ## Suggestions
 
 Know a paper that belongs here? Open an issue with the title and a DOI or official link.
